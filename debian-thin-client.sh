@@ -2,7 +2,7 @@
 
 echo "Openbox thin client installer"
 read -p "Do you want to install X, Openbox, GDM3, FreeRDP? (y/n) " answer
-if [ "$answer" != "y" ]; then
+if [ "$answer" = "y" ]; then
     echo "Installing X, Openbox, GDM3, FreeRDP..."
     apt -y install xorg xinit xterm openbox obconf gdm3 neovim freerdp2-x11
     systemctl set-default graphical.target
