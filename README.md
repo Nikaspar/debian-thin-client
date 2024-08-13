@@ -1,0 +1,1 @@
+# debian-thin-client
