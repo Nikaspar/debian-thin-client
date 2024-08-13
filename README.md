@@ -12,6 +12,6 @@ Downloading:
 
 Installing:
 
-`chmode +x debian-thin-client.sh`
+`chmod +x debian-thin-client.sh`
 
 `./debian-thin-client.sh`
