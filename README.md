@@ -2,7 +2,7 @@
 
 Downloading:
 
-`wget https://github.com/Nikaspar/debian-thin-client/releases/download/debian-thin-client/debian-thin-client.sh`
+`wget https://github.com/Nikaspar/debian-thin-client/releases/download/1/debian-thin-client.sh`
 
 Installing:
 
